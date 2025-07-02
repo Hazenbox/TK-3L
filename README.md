@@ -2,9 +2,7 @@
 
 Welcome to Trikonantara's official website - Redefining Reality through AR/VR Innovation!
 
-## 🚀 Live Website
-- **Custom Domain**: https://trikonantara.com/
-- **GitHub Pages**: https://hazenbox.github.io/Tk-2/
+
 
 ## 🎯 Features
 - Modern React application with TypeScript
